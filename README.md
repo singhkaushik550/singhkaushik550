@@ -85,8 +85,13 @@ I design and ship end-to-end **data, ML and Generative AI systems**, from messy 
 <!--PROJECTS:START-->
 | Project | What it does | Stack | Stars |
 |---|---|---|---|
-| [**Client_Data_Agent**](https://github.com/singhkaushik550/Client_Data_Agent) | AI-powered agent that automates Excel data ingestion, validation, cleaning, transformation and storage | `Python` | 0 |
-| [**Student_Management_System**](https://github.com/singhkaushik550/Student_Management_System) | Full-stack application for managing student records | `JavaScript` | 0 |
+| [**aws-mlops-deployment**](https://github.com/singhkaushik550/aws-mlops-deployment) | Work in progress | `HTML` | 0 |
+| [**Student_Management_System**](https://github.com/singhkaushik550/Student_Management_System) | Student Management System is a full-stack application for managing student records efficiently. It provides features to register, view, update, and delete student information, with database integration and API-based operations. Built using Python, FastAPI, PostgreSQL. | `JavaScript` | 0 |
+| [**kaushik_tour_travels**](https://github.com/singhkaushik550/kaushik_tour_travels) | Work in progress | `HTML` | 0 |
+| [**fastapi_mongodb**](https://github.com/singhkaushik550/fastapi_mongodb) | Work in progress | `Python` | 0 |
+| [**Dataset_for_Practice**](https://github.com/singhkaushik550/Dataset_for_Practice) | Dataset_for_Practice is a collection of datasets designed for hands-on learning and experimentation in Data Science, Machine Learning, and AI/ML. It includes datasets for data preprocessing, visualization, feature engineering, statistical analysis, model training, evaluation, and practicing various machine learning algorithms. | - | 0 |
+| [**Client_Data_Agent**](https://github.com/singhkaushik550/Client_Data_Agent) | AI-powered Client Data Agent that automates Excel data ingestion, validation, cleaning, transformation, and storage. Built with Python, Pandas, FastAPI, and MySQL to reduce manual effort and provide a scalable, reliable client data processing workflow. | `Python` | 0 |
+| [**Staff_Management_API**](https://github.com/singhkaushik550/Staff_Management_API) | Work in progress | `Python` | 0 |
 <!--PROJECTS:END-->
 
 ---
