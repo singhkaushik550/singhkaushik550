@@ -109,12 +109,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=singhkaushik550&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhkaushik550&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkaushik550&theme=tokyonight&hide_border=true" alt="Streak stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhkaushik550&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff" alt="Activity graph" width="100%" />
 
 </div>
 
