@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f5d4&height=240&section=header&text=Kaushik%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%20%26%20GenAI%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Kaushik Singh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f5d4&height=240&section=header&text=Kaushik%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20and%20GenAI%20Engineer&descAlignY=60&descSize=20" width="100%" alt="Kaushik Singh banner" />
 
 <a href="https://github.com/singhkaushik550">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+intelligent+systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Generative+AI+%C2%B7+RAG+%C2%B7+Agentic+AI;Building+scalable+data+%26+ML+pipelines" alt="Typing animation" />
@@ -109,12 +109,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=singhkaushik550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhkaushik550&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=singhkaushik550&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhkaushik550&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkaushik550&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=singhkaushik550&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhkaushik550&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff" alt="Activity graph" width="100%" />
 
 </div>
 
