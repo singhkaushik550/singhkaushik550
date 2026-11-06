@@ -1,11 +1,14 @@
-<!-- Banner -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f5d4&height=240&section=header&text=Kaushik%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20and%20GenAI%20Engineer&descAlignY=60&descSize=20" width="100%" alt="Kaushik Singh banner" />
 
 <a href="https://github.com/singhkaushik550">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+intelligent+systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Generative+AI+%C2%B7+RAG+%C2%B7+Agentic+AI;Building+scalable+data+%26+ML+pipelines" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=AI+Engineer;Data+Engineer;GenAI+Engineer;Agentic+AI+Engineer;Turning+raw+data+into+intelligent+systems" alt="Typing animation" />
 </a>
+
+<br/><br/>
+
+<img src="assets/roles.svg" width="100%" alt="AI Engineer · Data Engineer · GenAI Engineer · Agentic AI Engineer" />
 
 <br/>
 
@@ -21,102 +24,81 @@
 
 ```python
 class KaushikSingh:
-    role        = "Data Scientist | ML & GenAI Engineer"
-    focus       = ["Machine Learning", "Generative AI & RAG", "Agentic AI", "Data Engineering"]
+    roles       = ["AI Engineer", "Data Engineer", "GenAI Engineer", "Agentic AI Engineer"]
+    focus       = ["Machine Learning", "RAG & LLMs", "Multi-agent systems", "Scalable data pipelines"]
     languages   = ["Python", "SQL", "JavaScript"]
     philosophy  = "Turn raw data into actionable insights, and insights into production systems."
-    currently   = "Building LLM-powered apps and scalable data pipelines"
+    currently   = "Building LLM-powered apps, agents and scalable data pipelines"
     open_to     = ["Collaborations", "Open source", "Interesting AI problems"]
 ```
 
 I design and ship end-to-end **data, ML and Generative AI systems**, from messy data ingestion and feature engineering to model serving, evaluation and monitoring. I care about solutions that are **accurate, observable, secure and scalable**, not just notebooks that work once.
 
----
-
-## 🧠 What I Work On
-
-| | |
-|---|---|
-| 🤖 **Generative AI & LLMs** | Prompt & context engineering, LLM fine-tuning (LoRA / QLoRA / PEFT), guardrails, evaluation (RAGAS) |
-| 🔎 **RAG & Vector Search** | Hybrid search (BM25 + dense), re-ranking, chunking, FAISS / Chroma / Pinecone / pgvector |
-| 🕸️ **Agentic AI** | Multi-agent orchestration with LangGraph / CrewAI / AutoGen, tool calling, MCP, human-in-the-loop |
-| 📈 **ML & Deep Learning** | Scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow, NLP, time-series, anomaly detection |
-| 🏗️ **Data Engineering** | ETL / ELT, PySpark, Airflow, dbt, Kafka, medallion architecture, data quality |
-| ⚙️ **MLOps & Cloud** | MLflow, DVC, Docker, Kubernetes, CI/CD with GitHub Actions, AWS · Azure · GCP |
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-**Languages & APIs**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bash,fastapi&theme=dark" alt="languages" />
-
-**ML / AI**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,huggingface&theme=dark" alt="ml" />
-
-**Data & Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,spark&theme=dark" alt="data" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,terraform&theme=dark" alt="cloud" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,postman&theme=dark" alt="tools" />
-
+  <img src="assets/neural.svg" width="100%" alt="Animated neural network" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🛰️ Tech Stack Orbit
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Client_Data_Agent**](https://github.com/singhkaushik550/Client_Data_Agent) | AI-powered agent that automates Excel data ingestion, validation, cleaning, transformation and storage | `Python` `Pandas` `FastAPI` `MySQL` |
-| [**Student_Management_System**](https://github.com/singhkaushik550/Student_Management_System) | Full-stack app to register, view, update and delete student records with database integration | `JavaScript` `REST API` `DB` |
-| [**Staff_Management_API**](https://github.com/singhkaushik550/Staff_Management_API) | Backend API for managing staff records | `Python` `FastAPI` |
-| [**fastapi_mongodb**](https://github.com/singhkaushik550/fastapi_mongodb) | FastAPI service with MongoDB persistence | `Python` `FastAPI` `MongoDB` |
-| [**Dataset_for_Practice**](https://github.com/singhkaushik550/Dataset_for_Practice) | Curated datasets for hands-on Data Science, ML and AI practice | `Data` `ML` |
-| [**kaushik_tour_travels**](https://github.com/singhkaushik550/kaushik_tour_travels) | Travel and tours website | `HTML` `CSS` |
+<div align="center">
+  <img src="assets/orbit.svg" width="100%" alt="Rotating 3D orbit of AI, data and cloud technologies" />
+</div>
+
+---
+
+## 🧬 Stacks I Work Across
+
+| Stack | Technologies |
+|---|---|
+| 🤖 **AI Engineering** | `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `LightGBM` `NLP` `Time-series` `Anomaly detection` |
+| 🧠 **GenAI & LLMs** | `LLMs` `Prompt & context engineering` `LoRA / QLoRA` `Hugging Face` `LangChain` `LlamaIndex` `RAGAS` |
+| 🔎 **RAG & Vector Search** | `Hybrid search` `Re-ranking` `FAISS` `Chroma` `Pinecone` `pgvector` |
+| 🕸️ **Agentic AI** | `LangGraph` `CrewAI` `AutoGen` `MCP` `Tool calling` `Human-in-the-loop` |
+| 🏗️ **Data Engineering** | `PySpark` `Databricks` `Kafka` `Airflow` `dbt` `Delta Lake` `Great Expectations` |
+| ⚙️ **MLOps & Cloud** | `MLflow` `DVC` `Docker` `Kubernetes` `GitHub Actions` `Terraform` `AWS` `Azure` `GCP` |
+| 🛡️ **AI Security & Safety** | `Guardrails` `Prompt-injection defense` `PII redaction` `Red-teaming` `Output evaluation` |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,fastapi,pytorch,tensorflow,sklearn,pandas,numpy,huggingface,spark,kafka,postgres,mysql,mongodb,redis,docker,kubernetes,aws,azure,gcp,githubactions,terraform,git,linux&theme=dark&perline=12" alt="Tech icons" />
+
+</div>
 
 ---
 
 ## 🏛️ How I Build AI Systems
 
-```mermaid
-flowchart LR
-    A[Data Sources] --> B[Ingestion & ETL]
-    B --> C[Feature Store / Vector Index]
-    C --> D[Model / LLM Service]
-    D --> E[API · FastAPI]
-    E --> F[Apps & Dashboards]
-    D --> G[Evaluation & Guardrails]
-    G --> H[Monitoring & Feedback Loop]
-    H --> B
-```
+<div align="center">
+  <img src="assets/layers.svg" width="100%" alt="Isometric animated stack: data foundation, pipelines, GenAI and models, agentic AI, apps and APIs" />
+</div>
 
 **Principles:** grounded answers over hallucinations · evaluation gates in CI · least-privilege access · observability on every hop · cost-aware inference.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+> ⚡ This table is **auto-generated**: a GitHub Action scans my public repos every hour, so new repositories show up here on their own.
+
+<!--PROJECTS:START-->
+| Project | What it does | Stack | Stars |
+|---|---|---|---|
+| [**Client_Data_Agent**](https://github.com/singhkaushik550/Client_Data_Agent) | AI-powered agent that automates Excel data ingestion, validation, cleaning, transformation and storage | `Python` | 0 |
+| [**Student_Management_System**](https://github.com/singhkaushik550/Student_Management_System) | Full-stack application for managing student records | `JavaScript` | 0 |
+<!--PROJECTS:END-->
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkaushik550&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com/?user=singhkaushik550&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-</div>
+<img src="https://raw.githubusercontent.com/singhkaushik550/singhkaushik550/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/singhkaushik550/singhkaushik550/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 ---
@@ -126,6 +108,7 @@ flowchart LR
 - 🔭 Production-grade **RAG** with hybrid retrieval and automated evaluation
 - 🤝 **Multi-agent** systems with LangGraph and Model Context Protocol
 - 🧪 **LLMOps**: prompt versioning, tracing, cost and quality monitoring
+- 🛡️ **AI security**: guardrails, prompt-injection defense and red-teaming
 - ☁️ Scalable data platforms on **Databricks / Spark**
 
 ---
