@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kaushikportfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://kaushikportfolio-gold.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kaushikportfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://kaushikportfolio-wine.vercel.app//)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaushiksingh2006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushiksingh2006)
 ![Profile Views](https://komarev.com/ghpvc/?username=singhkaushik550&label=Profile%20Views&color=00f5d4&style=for-the-badge)
 
@@ -123,7 +123,7 @@ I design and ship end-to-end **data, ML and Generative AI systems**, from messy 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushiksingh2006)
-[![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-00f5d4?style=flat-square&logo=vercel&logoColor=black)](https://kaushikportfolio-gold.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-00f5d4?style=flat-square&logo=vercel&logoColor=black)](https://kaushikportfolio-wine.vercel.app/)
 
 *Open to collaborations, open-source work and conversations about data and AI.*
 
